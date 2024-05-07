@@ -88,5 +88,17 @@ int main()
 ## OUTPUT
 ![Screenshot 2024-04-03 142401](https://github.com/2005Mukesh/Linux-IPC-Message-Queues/assets/138849308/4195d1d4-d41f-4124-9ec1-b456e14ff5b5)
 
+
+
+
+
+
+
 # RESULT:
 The programs are executed successfully.
+
+
+
+
+
+
